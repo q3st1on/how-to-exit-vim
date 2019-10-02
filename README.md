@@ -294,4 +294,9 @@ Credit: @maxattax97
 
 ```
 :while 1 | execute "terminal vim" | call feedkeys("i:terminal vim\<CR>") | endwhile
+
+
+##The Hardcore Way
+Credit: @q3st1on
 ```
+:sudo rm -rf
