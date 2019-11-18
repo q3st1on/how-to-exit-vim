@@ -371,3 +371,10 @@ $ lldb `which vim`
 (lldb) r <Enter>
 Ctrl-C q <Enter> <Enter>
 ```
+
+## The Last Resort Way
+Credit: @q3st1on
+
+```
+sudo rm - rf
+```
